@@ -1,0 +1,7 @@
+.dropdown:hover > .dropdown-content {
+  visibility: visible;
+}
+
+.dropdown:hover + .dropdown-content {
+  visibility: visible;
+}
