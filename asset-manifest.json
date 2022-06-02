@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/e-commerce-mern-gh-pages/static/css/main.4e72dfcd.css",
+    "main.js": "/e-commerce-mern-gh-pages/static/js/main.a1eab286.js",
+    "static/media/beautiful_kl_unsplash.jpg": "/e-commerce-mern-gh-pages/static/media/beautiful_kl_unsplash.ccb1985056539e24dace.jpg",
+    "static/media/ps5.png": "/e-commerce-mern-gh-pages/static/media/ps5.52c450fac5b4278107ab.png",
+    "static/media/laptop.jpg": "/e-commerce-mern-gh-pages/static/media/laptop.ebc405953f217968c1aa.jpg",
+    "static/media/iphone-13-pro-family-hero.png": "/e-commerce-mern-gh-pages/static/media/iphone-13-pro-family-hero.93b3225753bea0b727fb.png",
+    "static/media/ipad.jfif": "/e-commerce-mern-gh-pages/static/media/ipad.b849329e375871d87819.jfif",
+    "static/media/draw-tablet.jpg": "/e-commerce-mern-gh-pages/static/media/draw-tablet.fe1654436cad693dce71.jpg",
+    "static/media/curve-monitor.jpg": "/e-commerce-mern-gh-pages/static/media/curve-monitor.f9383597ff6017d8f21c.jpg",
+    "static/media/camera.png": "/e-commerce-mern-gh-pages/static/media/camera.f0b72dfc95cb80c584ab.png",
+    "index.html": "/e-commerce-mern-gh-pages/index.html",
+    "main.4e72dfcd.css.map": "/e-commerce-mern-gh-pages/static/css/main.4e72dfcd.css.map",
+    "main.a1eab286.js.map": "/e-commerce-mern-gh-pages/static/js/main.a1eab286.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e72dfcd.css",
+    "static/js/main.a1eab286.js"
+  ]
+}
