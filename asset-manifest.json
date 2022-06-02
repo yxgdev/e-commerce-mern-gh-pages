@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/e-commerce-mern-gh-pages/static/css/main.4e72dfcd.css",
-    "main.js": "/e-commerce-mern-gh-pages/static/js/main.a1eab286.js",
+    "main.js": "/e-commerce-mern-gh-pages/static/js/main.2ad17e61.js",
     "static/media/beautiful_kl_unsplash.jpg": "/e-commerce-mern-gh-pages/static/media/beautiful_kl_unsplash.ccb1985056539e24dace.jpg",
     "static/media/ps5.png": "/e-commerce-mern-gh-pages/static/media/ps5.52c450fac5b4278107ab.png",
     "static/media/laptop.jpg": "/e-commerce-mern-gh-pages/static/media/laptop.ebc405953f217968c1aa.jpg",
@@ -12,10 +12,10 @@
     "static/media/camera.png": "/e-commerce-mern-gh-pages/static/media/camera.f0b72dfc95cb80c584ab.png",
     "index.html": "/e-commerce-mern-gh-pages/index.html",
     "main.4e72dfcd.css.map": "/e-commerce-mern-gh-pages/static/css/main.4e72dfcd.css.map",
-    "main.a1eab286.js.map": "/e-commerce-mern-gh-pages/static/js/main.a1eab286.js.map"
+    "main.2ad17e61.js.map": "/e-commerce-mern-gh-pages/static/js/main.2ad17e61.js.map"
   },
   "entrypoints": [
     "static/css/main.4e72dfcd.css",
-    "static/js/main.a1eab286.js"
+    "static/js/main.2ad17e61.js"
   ]
 }
