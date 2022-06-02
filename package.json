@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "https://tech-games-ecom.herokuapp.com",
+  "homepage": "https://yxgdev.github.io/e-commerce-mern-gh-pages",
   "dependencies": {
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
